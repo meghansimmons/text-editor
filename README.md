@@ -13,7 +13,7 @@ The application **text-editor** allows a user to easily view and interact with i
 
 
 ## Credits
-Starter Code
+Starter code was supplied for the **text-editor** application. 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
