@@ -7,13 +7,15 @@ The application **text-editor** allows a user to easily view and interact with i
 
 
 ## Installation
-
+npm i, npm run build, npm i @babel/plugin-proposal-object-rest-spread
 
 ## Usage
 
 
 ## Credits
 Starter code was supplied for the **text-editor** application. 
+
+webpack pwa manifest - fingerprpint false to remove unneccesary info that was messing up icon on page
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
