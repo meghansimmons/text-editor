@@ -15,6 +15,8 @@ npm i, npm run build, npm i @babel/plugin-proposal-object-rest-spread
 ## Credits
 Starter code was supplied for the **text-editor** application. 
 
+npmrc file
+
 webpack pwa manifest - fingerprpint false to remove unneccesary info that was messing up icon on page
 
 ## License
